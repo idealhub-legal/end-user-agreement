@@ -315,6 +315,7 @@ Rights of Third Parties: A person who is not a party to these Terms has no right
 You will not assign or transfer this Agreement, including any assignment or transfer by reason of merger, reorganization, sale of all or substantially all of Your assets, change of control or operation of law, without Our prior written consent, which will not be unreasonably withheld. We may assign this Agreement to any affiliate or in the event of merger, reorganization, sale of all or substantially all of Our assets, change of control or operation of law.
 
 **g. Modification**
+
 IdealHub Software and service will constantly update and change over time based on customers' feedback. These Terms are not intended to answer every question or address every issue raised by the use of Our Software. IdealHub reserves the right to change these terms at any time, effective upon the posting of the modified terms and IdealHub will make every effort to communicate these changes to You via email or notification via the Website. It is Your obligation to ensure that You have read, understood and agree to the most recent terms available on Our Website.
 
 **h. Governing Law and Jurisdiction**
